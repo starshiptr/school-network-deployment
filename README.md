@@ -1,4 +1,4 @@
-# Enterprise-Pattern School Network — Design & Deployment
+# Production-Pattern School Network — Design & Deployment
 
 Solo design and deployment of a segmented, security-hardened, monitored
 network for a school (paid consulting engagement). One firewall, one
